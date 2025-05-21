@@ -140,7 +140,7 @@ header {
     text-shadow: 0 0 5px var(--laranja-escuro);
 }
 
-/* footer */
+/* footer. */
 .retrofuture-footer {
     background-color: rgba(10, 15, 25, 0.95);
     border-top: 1px solid var(--neon-orange);

@@ -595,7 +595,8 @@ button:hover::before {
   position: relative;
     width: 280px;
     height: 340px;
-    background-color: #af00004e;
+    background-color: #110f254e;
+    border: solid #FF5722;
     border-radius: 30px;
 }
 
@@ -617,7 +618,7 @@ button:hover::before {
 
 #texto2_iphone {
     font-family: 'Orbitron', sans-serif;
-    font-size: 75%;
+    font-size: 80%;
     position: absolute;
     bottom: 0; 
     left: 50%;
@@ -630,7 +631,7 @@ button:hover::before {
 
 #texto2_fones {
   font-family: 'Orbitron', sans-serif;
-    font-size: 75%;
+    font-size: 80%;
     position: absolute;
     bottom: 0; 
     left: 50%;
@@ -643,7 +644,7 @@ button:hover::before {
 
 #texto2_teclado {
   font-family: 'Orbitron', sans-serif;
-    font-size: 75%;
+    font-size: 80%;
     position: absolute;
     bottom: 0; 
     left: 50%;
@@ -657,13 +658,34 @@ button:hover::before {
 
 .background-gif {
     position: absolute;
-    width: 60%; 
+    width: 90%; 
     height: 60%;
     top: 43%;
     left: 50%;
     transform: translate(-50%, -50%);
     object-fit: cover; 
 }
+
+.background-gif2 {
+    position: absolute;
+    width: 90%; 
+    height: 60%;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    object-fit: cover; 
+}
+
+.background-gif3 {
+    position: absolute;
+    width: 90%; 
+    height: 60%;
+    top: 43%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    object-fit: cover; 
+}
+
 
 
 
